@@ -21,5 +21,14 @@ This demonstration is divided into 9 parts. Each part is a seperate folder
 
 Each folder has its own instructions.
 
-# You may want to know
-This tutorial is built using `create-react-app`. Please ensure you have npm installed before running this on your machine.
+# How to install and run examples
+This tutorial is built using [`create-react-app`](https://github.com/facebookincubator/create-react-app).
+
+```sh
+git clone https://github.com/zainulabidin302/react-router-tutorial-v4
+cd react-router-tutorial-v4/01-introduction
+npm install
+npm start
+```
+
+open your browser and navigate to http://localhost:3000
