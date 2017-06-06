@@ -1,0 +1,24 @@
+.App-header {
+  background-color: #222;
+  width: 100%;
+
+  color: white;
+  margin-bottom: 30px;
+
+}
+.App {
+  height: 100%;
+  padding-bottom: 30px;
+}
+.App-Body {
+  width: 80%;
+  display: flex;
+  padding: 15px;
+  margin: auto;
+  justify-content: center;
+  background: #eee;
+}
+
+.App-Body h3 {
+
+}

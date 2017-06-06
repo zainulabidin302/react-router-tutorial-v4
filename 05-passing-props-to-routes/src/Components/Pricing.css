@@ -1,0 +1,11 @@
+table.table th {
+  border: 1px solid #ddd;
+  padding: 15px;
+  background: teal;
+  color: #fff;
+}
+
+table.table td {
+  border: 1px solid #aaa;
+  padding: 15px;
+}

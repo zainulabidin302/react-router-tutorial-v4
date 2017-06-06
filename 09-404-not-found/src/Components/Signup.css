@@ -1,0 +1,17 @@
+.Signup {
+
+}
+
+.Signup .formInput label {
+  width: 10em;
+  padding: 10px;
+  padding-left: 60px;
+  display: inline-block;
+  text-align: left;
+}
+
+.Signup .formInput input {
+  width: 20em;
+  margin: 15px;
+  padding: 10px;
+}

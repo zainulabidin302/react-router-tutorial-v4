@@ -1,0 +1,20 @@
+.Related-links {
+  display: flex;
+  width: 100%;
+  
+}
+.Related-links .head {
+  width: 100%;
+}
+.Related-links .link {
+  border: 1px solid #333;
+  border-radius: 30px;
+
+  padding: 5px;
+}
+
+.Related-links a {
+    margin: 10px;
+    padding: 10px;
+    color: blue;
+}

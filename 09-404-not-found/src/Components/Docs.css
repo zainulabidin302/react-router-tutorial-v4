@@ -1,0 +1,39 @@
+.Docs-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.Docs-container .side-bar {
+
+  flex: 2;
+  border: 1px solid #ddd;
+  background: teal;
+  color: #fff;
+}
+.Docs-container .side-bar a, .Docs-container .side-bar h4 {
+  color: white;
+  text-decoration: none;
+  padding-bottom: 5px;
+}
+.Docs-container .side-bar li{
+  color: white;
+  text-decoration: underline;
+  margin-bottom: 10px;
+}
+
+.Docs-container .side-bar ul{
+  color: white;
+  text-decoration: none;
+  margin-left: -15px;
+  list-style-type: square;
+}
+
+.Docs-container .docs-details {
+  flex: 5;
+  margin-left: 10px;
+  border: 1px solid #aaa;
+  padding: 15px;
+}
+
+.Docs-container div  {
+  width: 100%;
+}
